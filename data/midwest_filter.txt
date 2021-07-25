@@ -1,0 +1,1 @@
+Data used for Matplotlib_Plot_Types_MDE Scatter Plot example
